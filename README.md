@@ -1,3 +1,3 @@
-# Hello
+# hello
 
-I do coding and stuff
+I do coding and stuff.
