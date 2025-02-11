@@ -1,3 +1,3 @@
 # hello
 
-I code and stuff.
+String interest in programming, embedded systems, robotics, AI, and design.
