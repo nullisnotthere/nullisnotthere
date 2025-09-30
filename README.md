@@ -1,14 +1,14 @@
 # hello
 
-Hi! I'm Luke, a student with strong interests in programming, embedded systems, robotics, AI, 3D printing, and design.
+I'm Luke, a student focused on sharpening skillsets surrounding programming, embedded systems, robotics, AI, 3D printing, and digital design.
 
-Currently building a mechatronics engineering portfolio and branching out my software skillset.
+I'm currently building a mechatronics engineering portfolio. I aim to diversify my software and robotics knowledge while gaining practical experience through project development.
 
 ## Experience with:
 
 - Python
+- C/C++
 - Blender
 - Godot
 - Neovim
 - Arch Linux
-- C/C++
